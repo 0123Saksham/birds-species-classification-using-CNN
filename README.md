@@ -91,5 +91,5 @@ The model is defined in [`bird.py`](bird.py) as a convolutional neural network (
 - Make sure your dataset path is correct and accessible.
 - The environment setup is designed for Kaggle but can be adapted for local use.
 - For any issues, check the dependencies in [`environment.yml`](environment.yml) and the installation script [`install.sh`](install.sh).
-- Feel free to go to the official problem statement for this project in ['Problem Statement'](https://lily-molybdenum-65d.notion.site/Assignment-3-Part-I-Learning-with-Neural-Networks-7388ff163f7b403482e2cc4329f03003)
+- Feel free to go to the official problem statement for this project in [Problem Statement](https://lily-molybdenum-65d.notion.site/Assignment-3-Part-I-Learning-with-Neural-Networks-7388ff163f7b403482e2cc4329f03003)
 ---
