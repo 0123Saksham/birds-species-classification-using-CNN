@@ -4,6 +4,7 @@
 
 This assignment involves building and training a neural network to classify images of birds into one of 10 species using PyTorch. You will learn how to design, train, and evaluate a deep learning model for image classification.
 
+**Accuracy on the trained dataset**:  94.68%
 ## Directory Structure
 
 ```
